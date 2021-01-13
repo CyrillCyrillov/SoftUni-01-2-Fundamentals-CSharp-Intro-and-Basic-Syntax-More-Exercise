@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\Exercise_01_More\Task02_English_Name_of_the_Last_Digit\bin\Debug\netcoreapp3.1\Task02_English_Name_of_the_Last_Digit.exe
+C:\Users\Kiril\source\repos\Exercise_01_More\Task02_English_Name_of_the_Last_Digit\bin\Debug\netcoreapp3.1\Task02_English_Name_of_the_Last_Digit.deps.json
+C:\Users\Kiril\source\repos\Exercise_01_More\Task02_English_Name_of_the_Last_Digit\bin\Debug\netcoreapp3.1\Task02_English_Name_of_the_Last_Digit.runtimeconfig.json
+C:\Users\Kiril\source\repos\Exercise_01_More\Task02_English_Name_of_the_Last_Digit\bin\Debug\netcoreapp3.1\Task02_English_Name_of_the_Last_Digit.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Exercise_01_More\Task02_English_Name_of_the_Last_Digit\bin\Debug\netcoreapp3.1\Task02_English_Name_of_the_Last_Digit.dll
+C:\Users\Kiril\source\repos\Exercise_01_More\Task02_English_Name_of_the_Last_Digit\bin\Debug\netcoreapp3.1\Task02_English_Name_of_the_Last_Digit.pdb
+C:\Users\Kiril\source\repos\Exercise_01_More\Task02_English_Name_of_the_Last_Digit\obj\Debug\netcoreapp3.1\Task02_English_Name_of_the_Last_Digit.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\Exercise_01_More\Task02_English_Name_of_the_Last_Digit\obj\Debug\netcoreapp3.1\Task02_English_Name_of_the_Last_Digit.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Exercise_01_More\Task02_English_Name_of_the_Last_Digit\obj\Debug\netcoreapp3.1\Task02_English_Name_of_the_Last_Digit.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Exercise_01_More\Task02_English_Name_of_the_Last_Digit\obj\Debug\netcoreapp3.1\Task02_English_Name_of_the_Last_Digit.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Exercise_01_More\Task02_English_Name_of_the_Last_Digit\obj\Debug\netcoreapp3.1\Task02_English_Name_of_the_Last_Digit.dll
+C:\Users\Kiril\source\repos\Exercise_01_More\Task02_English_Name_of_the_Last_Digit\obj\Debug\netcoreapp3.1\Task02_English_Name_of_the_Last_Digit.pdb
+C:\Users\Kiril\source\repos\Exercise_01_More\Task02_English_Name_of_the_Last_Digit\obj\Debug\netcoreapp3.1\Task02_English_Name_of_the_Last_Digit.genruntimeconfig.cache

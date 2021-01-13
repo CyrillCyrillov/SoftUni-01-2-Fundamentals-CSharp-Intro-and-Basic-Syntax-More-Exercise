@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Task02_English_Name_of_the_Last_Digit/1.0.0": {
+        "runtime": {
+          "Task02_English_Name_of_the_Last_Digit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task02_English_Name_of_the_Last_Digit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
